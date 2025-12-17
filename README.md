@@ -2,34 +2,23 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Page Title</title>
+<title> Page 3 </title>
 </head>
 <body>
 
 <h1>immigration</h1>
-<p>Help save those who are being hunted</p>
-<p>help save those who cant</p>
-<p>help those who are being punished for having the American </p>
-<p>we claimed this first! nope</p>
+
+<p>Around 14-15.8% of the U.S. population are immigrants, with recent estimates placing it at record highs, near 15.8% or 53.3 million people as of early 2025 <p>
+<p>Many of them fleeing danger and hoping for a better life<p>
+<p>
 
 </body>
 </html>
 
-![immigration-impact-communities-stand-by](https://github.com/user-attachments/assets/a46bfd50-8ef0-404b-8055-7be023e07254)
+![families-being-detained-by-ice](https://www.chicagotribune.com/2025/09/29/ice-immigrant-families-ohare/)
 
 ‹title>no one is illegal on stolen land‹/title>
 </body>
-
-index.htmll
-page1.html
-
-‹a href-"page1.html">Card 1</a>
-<li class="masthead__menu-item">
-          <a href="https://xxx.github.io/home/research/">Research</a>
-        </li>
-
-<a href="https://www.w3schools.com/" target="_self">Visit W3Schools!</a>
-
 
 </body>
 </html>
